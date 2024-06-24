@@ -5,5 +5,6 @@ redis:7.2-alpine
 mysql:8.4.0
 wordpress:latest
 hyperf/hyperf:8.2-alpine-v3.19-swoole
+rabbitmq:3.13.3-management-alpine
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
